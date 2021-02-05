@@ -1,5 +1,9 @@
 # KB Travels
 
+## Pre-requisits
+
+ - DB server must be up and running
+
 ## How to run
 
  1. Clone repository
